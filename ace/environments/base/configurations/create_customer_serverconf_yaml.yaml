@@ -4,4 +4,4 @@ metadata:
   name: create-customer-serverconf.yaml
 spec:
   type: serverconf
-  contents: RGVmYXVsdHM6CiMgIHBvbGljeVByb2plY3Q6ICdjcmVhdGUtY3VzdG9tZXItcG9saWN5Jwo=
+  contents: RGVmYXVsdHM6CiAgcG9saWN5UHJvamVjdDogJ2NyZWF0ZS1jdXN0b21lci1wb2xpY3knCg==
